@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="Stab" type="CLASS" />
+      <mapping pattern="ModTheSpire" type="JSON" />
+      <mapping pattern="git" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
